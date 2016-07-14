@@ -1,0 +1,9 @@
+c:\users\gabriel\documents\visual studio 2012\Projects\Morse Code Converter\Morse Code Converter\bin\Debug\Morse Code Converter.exe.config
+c:\users\gabriel\documents\visual studio 2012\Projects\Morse Code Converter\Morse Code Converter\bin\Debug\Morse Code Converter.exe
+c:\users\gabriel\documents\visual studio 2012\Projects\Morse Code Converter\Morse Code Converter\bin\Debug\Morse Code Converter.pdb
+c:\users\gabriel\documents\visual studio 2012\Projects\Morse Code Converter\Morse Code Converter\obj\Debug\Morse Code Converter.csprojResolveAssemblyReference.cache
+c:\users\gabriel\documents\visual studio 2012\Projects\Morse Code Converter\Morse Code Converter\obj\Debug\Morse_Code_Converter.Form1.resources
+c:\users\gabriel\documents\visual studio 2012\Projects\Morse Code Converter\Morse Code Converter\obj\Debug\Morse_Code_Converter.Properties.Resources.resources
+c:\users\gabriel\documents\visual studio 2012\Projects\Morse Code Converter\Morse Code Converter\obj\Debug\Morse Code Converter.csproj.GenerateResource.Cache
+c:\users\gabriel\documents\visual studio 2012\Projects\Morse Code Converter\Morse Code Converter\obj\Debug\Morse Code Converter.exe
+c:\users\gabriel\documents\visual studio 2012\Projects\Morse Code Converter\Morse Code Converter\obj\Debug\Morse Code Converter.pdb
